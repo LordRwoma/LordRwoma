@@ -1,3 +1,5 @@
+# LORD RWOMA DISINI
+![LordRwoma](img/rr.png)
 <h1 align="center">⚡ ROMA | DEWA CODING ⚡</h1>
 <h3 align="center">Backend Engineer • System Builder • Cyber Mindset</h3>
 
@@ -13,3 +15,4 @@
 > Backend-focused Engineer
 > System thinker, not tutorial copier
 > Level up from bugs, not luck
+🤷‍♀️
